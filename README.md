@@ -1,5 +1,5 @@
 # Spam message filtering
-Here in this reppository i created a basic project about 'spam message filtering' using python .
+Created a "Message filtering" project using python .
 Module i used in this projects were.
 *pandas
 *re*
