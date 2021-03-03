@@ -1,4 +1,4 @@
-# basic-data-science-projects
+# Spam message filtering
 Here in this reppository i created a basic project about 'spam message filtering' using python .
 Module i used in this projects were.
 *pandas
